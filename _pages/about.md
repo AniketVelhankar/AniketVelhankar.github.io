@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-Hi!, I am Aniket, a final year Undergraduate student in Computer Science at [Pune Institute of Computer Technology [P.I.C.T], Pune](pict.edu). 
+Hi!, I am Aniket, a final year Undergraduate student in Computer Science at [Pune Institute of Computer Technology [P.I.C.T], Pune](https://pict.edu). 
 
 My research interests lie at an intersection of deep learning and computer vision. I want to bridge the gap between research and application to use innovative research ideas in solving real life problems.
 
