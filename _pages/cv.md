@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+## [Resume (pdf)](https://drive.google.com/file/d/15qjJZFD9DP-erBH70RvkqBszQYCH5RiZ/view?usp=sharing)
+
+<!---
 Education
 ======
 * Bachelors in Computer Engineering, P.I.C.T, Pune, 2018 - Present
@@ -39,3 +42,4 @@ Skills
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
